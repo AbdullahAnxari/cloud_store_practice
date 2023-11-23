@@ -1,0 +1,1 @@
+export 'degree_model.dart';

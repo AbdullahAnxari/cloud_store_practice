@@ -1,0 +1,31 @@
+name: read_write
+description: A new Flutter project.
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  firebase_core: ^2.21.0
+  cloud_firestore: ^4.12.2
+  get: ^4.6.6
+  fluttertoast: ^8.2.2
+  flutter_screenutil: ^5.9.0
+  connectivity_plus: ^5.0.1
+  internet_connection_checker: ^1.0.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
